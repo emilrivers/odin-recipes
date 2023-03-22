@@ -1,0 +1,1 @@
+My current project is building a "recipes site". I'm not sure if that means building recipes for Odin or like, making a recipe book. I should have it figured out at the end. So far though I have some knowledge of git, a lot more knowledge of CLI than I thought I would ever get, and a little HTML thrown in there as well. 
